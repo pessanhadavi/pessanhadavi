@@ -7,6 +7,7 @@ def pessanhadavi
     languages := ['Ruby', 'JavaScript ES6', 'Python (..in progress)', 'HTML5', 'CSS3', 'SQL'];
     frameworks := ['Ruby on Rails', 'React'];
   }
+end
 ```
 
 <p align="left">

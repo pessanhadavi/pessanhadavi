@@ -1,11 +1,11 @@
 ```ruby
 def pessanhadavi
   name     = 'David'
-  area    = 'Full-Stack Developer';
+  area    = 'Full-Stack Developer'
   home = 'Rio de Janeiro'
   skills = {
-    languages := ['Ruby', 'JavaScript ES6', 'Python (..in progress)', 'HTML5', 'CSS3', 'SQL'];
-    frameworks := ['Ruby on Rails', 'React'];
+    languages := ['Ruby', 'JavaScript ES6', 'Python (..in progress)', 'HTML5', 'CSS3', 'SQL'],
+    frameworks := ['Ruby on Rails', 'React']
   }
 end
 ```

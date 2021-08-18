@@ -12,24 +12,24 @@ end
 ```
 
 <p align="left">
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:davidppessanha@gmail.com"/>
+  <a href="mailto:davidppessanha@gmail.com" alt="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-pessanha-580891204/"/>
+  <a href="https://www.linkedin.com/in/david-pessanha-580891204/" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
 
-  <a href="#" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521998863154"/>
+  <a href="https://api.whatsapp.com/send?phone=5521998863154" alt="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="#" alt="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pessanha_davi"/>
+  <a href="https://twitter.com/pessanha_davi" alt="Twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?=flat-square&logo=twitter&logoColor=white"/>
   </a>
   
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pessanhadavi/"/>
+  <a href="https://www.instagram.com/pessanhadavi/" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
   </a>
 </p>
 

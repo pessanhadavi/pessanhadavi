@@ -6,7 +6,7 @@ def pessanhadavi
   home = "Rio de Janeiro, Brazil"
   skills = {
     languages := ["Ruby", "JavaScript ES6", "HTML5", "CSS3", "SQL"],
-    frameworks := ["Ruby on Rails", "Vue.js (..in progress)"]
+    frameworks := ["Ruby on Rails", "Vue.js"]
   }
 end
 ```
